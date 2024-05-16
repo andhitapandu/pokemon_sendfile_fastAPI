@@ -25,6 +25,11 @@ Honestly, I am quite confused when reading the metrics in Grafana, but it's okay
 ![image](https://github.com/andhitapandu/pokemon_sendfile_fastAPI/assets/154814230/fb1e921e-c4f1-46e7-b07e-fb001ffa1e9e)
 
 ![image](https://github.com/andhitapandu/pokemon_sendfile_fastAPI/assets/154814230/7f12e888-12ce-45be-aa42-9b8116adb328)
+----------------------------------------------
+### Automation test with playwright [ Updated 0.2 ]
+Learn typescript as needed to navigate to the upload page, select the specified file, and submit it to the server with my favourite anime's list movie with automation in browser .
+
+![image](https://github.com/andhitapandu/pokemon_sendfile_fastAPI/assets/154814230/8698d2f7-8e2d-4901-bfba-8aad645fb710)
 
 
 
