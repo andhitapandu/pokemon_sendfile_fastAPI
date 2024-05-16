@@ -16,3 +16,18 @@ uvicorn main:app
 
 ![image](https://github.com/andhitapandu/pokemon_sendfile_fastAPI/assets/154814230/874b3537-0beb-4e58-80e7-cd68627cac80)
 
+----------------------------------------------
+### Time To Test with K6 and Grafana
+
+Is it good for handle > 9 users ??
+Honestly, I am quite confused when reading the metrics in Grafana, but it's okay as it's part of my learning process right now.
+
+![image](https://github.com/andhitapandu/pokemon_sendfile_fastAPI/assets/154814230/fb1e921e-c4f1-46e7-b07e-fb001ffa1e9e)
+
+![image](https://github.com/andhitapandu/pokemon_sendfile_fastAPI/assets/154814230/7f12e888-12ce-45be-aa42-9b8116adb328)
+
+
+
+
+
+
